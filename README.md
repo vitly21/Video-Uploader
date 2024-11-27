@@ -1,2 +1,2 @@
 # Video-Uploader
-## Version Python 3.12.6
+## Version Python 3.6.0
